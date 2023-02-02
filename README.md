@@ -3,8 +3,8 @@
 完全にファイルを書き換えるのでもとのファイルはコピーしておく必要がある
 
 ```
-# npm i
-# node repalce ./example
+% npm i
+% node repalce ./example
 ```
 
 # 設定
